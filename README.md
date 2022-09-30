@@ -7,5 +7,5 @@ Here's the folder structure:
 
 |Folder|Files you'll find|
 |------|------------------|
-|Cognitive Services| You guessed it|
+|[PBI with Cogntive Services](https://github.com/rosscouldrey/PBIDemos/tree/main/PBI%20with%20Cognitive%20Services)| PowerBI files that integrate with Azure Cognitive Services|
 
